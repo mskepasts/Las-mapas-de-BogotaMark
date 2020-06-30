@@ -1,0 +1,127 @@
+.front-image {
+  width: 500px;
+  border-radius: 5%;
+
+}
+.info-image {
+  border-radius: 10%;
+  border: solid;
+  border-width: 1px;
+  border-color: #022b47;
+}
+
+body {
+  text-align: center;
+  font-family: "Ubuntu";
+  background-color: #f0f5f6
+}
+
+.timer {
+  text-align: left;
+  margin-right: 110px;
+  margin-left: 20px;
+  padding-top: 50px;
+  color: white;
+  font-family: "Poppins", Sans-serif;
+  font-weight: 800;
+}
+
+.checker {
+  color: white;
+  text-align: left;
+  font-family: Open Sans;
+  margin-left: 60px;
+  margin-right: 150px;
+}
+
+.time {
+  font-size: 250%;
+  font-family: "Poppins", Sans-serif;
+  padding-top: 100px;
+  color: white;
+}
+
+h2 {
+  font-size: 90%;
+}
+.round-rect{
+  border: solid;
+  border-width: 1px;
+  border-color: white;
+  text-align: center;
+  position: relative;
+  position: relative;
+
+  width: 500px;
+  height: 770px;
+  border-radius: 15%;
+  font-size: 50px;
+  color: #00000;
+  line-height: 500px;
+  text-align: center;
+  background: #022b47;
+}
+.circle {
+  position: relative;
+  position: relative;
+  margin-top: 40px;
+  width: 700px;
+  height: 700px;
+  border-radius: 50%;
+  font-size: 50px;
+  color: #00000;
+  line-height: 500px;
+  text-align: center;
+  background: #022b47;
+}
+
+.navbar {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+  color: #1abc9c !important;
+}
+
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 0px;
+}
+
+.navbar {
+  padding: 0rem 0;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-weight: 500;
+  font-size: 3em;
+}
+
+.nav-link {
+  margin: 0 4rem;
+  font-weight: lighter;
+  font-size: 1.2rem;
+}
+
+.clicked {
+  display: flex;
+}
+
+.info{
+  margin-top: 50px;
+  text-align: left;
+  margin-left: 40px;
+  margin-right: 40px;
+  color: white;
+}
+.title{
+  margin-top: 50px;
+  color:white;
+}
